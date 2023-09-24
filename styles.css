@@ -1,0 +1,45 @@
+body,h1{
+    background-color:cadetblue;
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{ text-align: center;
+}
+header{
+    text-align: right;
+}
+
+.nome1{
+    color: black;
+    text-decoration: none;
+}
+
+.nome2{
+    color: black;
+    text-decoration: none;
+}
+.nome3{
+    color: black;
+    text-decoration: none;
+}
+.nome4{
+    color: black;
+    text-decoration: none;
+}
+.foto1{
+    padding-left: 120px;
+}
+.foto2{
+    padding-left: 100px;
+}
+.foto3{
+    padding-left: 100px;
+}
+.foto4{
+    padding-left: 100px;
+}
+
+footer{
+    text-align: center;
+    color: black;
+}
